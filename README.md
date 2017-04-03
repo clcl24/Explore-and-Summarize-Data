@@ -4,6 +4,7 @@
 
 #### explores the variables, structure, patterns, oddities, and underlying relationships
 
+##### Files
 * wineQualityReds.rmd - the analysis report in R Markdown file
 
 * wineQualityReds.R - the R codes extract from the .rmd file
