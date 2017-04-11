@@ -7,6 +7,8 @@
 ##### Files
 * wineQualityReds.rmd - the analysis report in R Markdown file
 
+* wineQualityReds.html - html version of the report
+
 * wineQualityReds.R - the R codes extract from the .rmd file
 
 * wineQualityReds.csv - the original dataset
