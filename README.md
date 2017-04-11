@@ -7,7 +7,7 @@
 ##### Files
 * wineQualityReds.rmd - the analysis report in R Markdown file
 
-* wineQualityReds.html - html version of the report
+* wineQualityReds.pdf - pdf version of the report
 
 * wineQualityReds.R - the R codes extract from the .rmd file
 
